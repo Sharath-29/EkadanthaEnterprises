@@ -13,7 +13,6 @@ header{
 }
 footer {
     display: flex;
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -25,9 +24,18 @@ footer {
     align-items: center;
   }
   .d-block{
-      height: 30vw;
+      height: 35vw;
   }
   .carousel-caption{
       color: #311212;
       font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .container{
+      margin-top: 20px;
+  }
+  h2{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p{
+      font-family: 'Times New Roman', Times, serif;
   }
