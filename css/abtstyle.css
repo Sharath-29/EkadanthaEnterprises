@@ -23,24 +23,22 @@ footer {
     justify-content: center;
     align-items: center;
   }
-  .d-block{
-      height: 35vw;
-  }
-  .carousel-caption{
-      color: #311212;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-  }
-  .container{
-      margin-top: 20px;
-  }
-  h2{
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  p{
-      font-family: 'Times New Roman', Times, serif;
-  }
   main{
     min-height: calc(100vh - 56px - 54px);
   }
-  
- 
+  .about{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .lead{
+    font-family: 'Acme', sans-serif;
+    background-color: linen;
+  }
+.featurette-heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: -94px;
+}
+.text-muted{
+    font-family: fantasy;
+}
