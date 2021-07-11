@@ -24,3 +24,6 @@ footer {
     justify-content: center;
     align-items: center;
   }
+  .d-block{
+      height: 30vw;
+  }
